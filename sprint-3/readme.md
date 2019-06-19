@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/leodrk/Supermercado-DAME/master/sprint-3/Grafico.png
+![Grafico](https://user-images.githubusercontent.com/42979506/59323274-74030b00-8cb0-11e9-8bf4-bf6d714c9ae5.png) 
 
 # **Backlog del Producto**
 
@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/leodrk/Supermercado-DAME/master/sprint-3/Grafi
 **Modificar base de datos/modelo para que cada producto contenga un campo stock
 Como desarrollador quiero agregar un campo stock en los productos tanto en modelo como en base de datos
 **Estimado:** 3 puntos.  
-**Estado:** Pendiente.  
+**Estado:** Finalizado.  
 **Encargado: Leonel Martos.
 
 
@@ -50,18 +50,32 @@ Como Desarollador quiero desarrollar el codigo que dibuja la ventana inicial don
 
 ## Estimado para proxima iteracion 4
 
+**Totalizacion de la venta (suma de acuerdo a precio y numero de item's)
+
+**EPICA
+**Como cajero
+  Quiero registrar productos 
+  Para agregarlos a la venta actual y ver el precio total de la compra
+  
+**Desarrollar vista de caja
+**Estimado: 6 puntos.
+**Estado: Pendiente.
+**Encargado:
+
+**Enlazar modelo con vista
+**Estimado 8 puntos.
+**Estado: Pendiente.
+**Encargado:
 
 
 ## Retrospectiva del sprint
 
 # High
 
-> ** La division de tareas fue mas organizada y equitativa para el grupo . 
-> ** Se implemento el grafico de velocidad correctamente
+> ** La division de tareas fue mas organizada y equitativa para el grupo. 
+> ** Se implemento el grafico de velocidad correctamente.
 
 # Low
 
-> ** Falta adquirir conocimiento con respecto a las tecnologias referentes a la interfaz grafica e integracion continua .
-> ** Errores de comunicacion y malentendimientos llevaron a una mala division del tiempo dado para realizar los stories correspondientes al sprint
-
-
+> ** Todavia presentamos problemas con respecto al desarrollo de la vista y su relación con el modelo dado.
+> ** Se desperdicio mucho tiempo en solucionar algunos problemas de configuracion con respecto a la integración continua.
